@@ -1,2 +1,4 @@
 # LMC
-Little Man Computer Snippets
+[Little Man Computer](https://peterhigginson.co.uk/lmc/) Snippets
+## Snippets:
+[Print "Jingle" in output.]()

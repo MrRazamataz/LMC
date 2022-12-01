@@ -1,0 +1,20 @@
+// jigle in ascii = 106 105 110 103 108 101 
+        LDA J
+        OTC
+        LDA i
+        OTC
+        LDA n
+        OTC
+        LDA g
+        OTC
+        LDA l
+        OTC
+        LDA e
+        OTC
+        HLT
+J       DAT 74
+i       DAT 105
+n       DAT 110
+g       DAT 103
+l       DAT 108
+e       DAT 101
