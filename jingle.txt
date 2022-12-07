@@ -1,4 +1,4 @@
-// Jigle in ascii = 74 105 110 103 108 101 
+// Jingle in ascii = 74 105 110 103 108 101 
         LDA J
         OTC
         LDA i
