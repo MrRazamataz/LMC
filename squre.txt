@@ -1,0 +1,20 @@
+// squares the number inputted
+// shits itself if the number is too big
+        INP 
+        STA num
+loop    LDA total
+        ADD num
+        STA total
+        LDA count
+        ADD one
+        STA count
+        SUB num
+        BRZ end
+        BRA loop
+end     LDA total
+        OUT
+        HLT
+one     DAT 1
+num     DAT 0 
+count   DAT 0
+total   DAT 0
